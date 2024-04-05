@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    margin: 0 50px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    color: orangered
+}
+
+a.active{
+    color: whitesmoke;
+    text-shadow: 1px 1px 3px black;
+    text-decoration: underline;
+    font-size: 600;
+}
+
+img{
+    height: 40px;
+}

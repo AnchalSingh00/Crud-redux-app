@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Zeniliya Desuza",
+      "email": "zenliya@admin.com",
+      "password": "zen$23",
+      "description": "The main thrust of Godan is to arouse the humanitarian attitude in man so that society learns to move on the path of socialism and a happy world. The novel presents a synthesis of art and society, man and his age. The novelist has expressed his views on religion, caste, social set-up and community in realistic manner.",
+      "image": "https://i.pinimg.com/736x/a3/24/fc/a324fc78b051a18ba0c4129d0bf04b72.jpg"
+    },
+    {
+      "id": "3b5a",
+      "name": "Amelia",
+      "password": "ame@13",
+      "email": "amelia@blogger.com",
+      "description": "A computer is an electronic device that takes in raw data, processes it, and produces an output. It can perform mathematical and logical operations, and save the output for later use. \nSome basic components of a computer include:\nMotherboard\nCentral Processing Unit (CPU)\nGraphical Processing Unit (GPU)\nRandom Access Memory (RAM)\nStorage device \nSome types of computers include:\nAnalog computers, Digital computers, Supercomputers, Mainframe computers, Minicomputers, Personal computers (PCs) or microcomputers. \nComputer systems can help people perform complex tasks with speed and accuracy. Automated processes can save time and effort, which can lead to increased productivity. ",
+      "image": "https://img.freepik.com/premium-photo/portrait-beautiful-woman-street-with-her-arms-crossed-her-chest_668450-121.jpg"
+    },
+    {
+      "id": "873f",
+      "name": "Olivia",
+      "password": "oli$",
+      "email": "olivia@conci.com",
+      "description": "Travel and tourism is the activities of people traveling to and staying in places outside their usual environment for leisure, business, or other purposes. \nThe travel and tourism sector includes a wide range of products and services, such as:\nLeisure and business travel\nAccommodation\nFood and drink services\nHotels\nShort-term rentals\nCruises\nMeetings and events\nOnline travel agencies \nThe tourism industry revolves around providing enjoyment and pleasurable experiences. It creates jobs, strengthens the local economy, contributes to local infrastructure development and can help to conserve the natural environment and cultural assets and traditions. \nSome types of tourism include:",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVECxgr-mduEz9_iE9dpmrUmAJtzWcvvV2MOYQtKNSgWAdzKz9GxvMRzoSFwl5f0vCs8&usqp=CAU"
+    }
+  ]
+}
